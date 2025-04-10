@@ -1,0 +1,14 @@
+/Users/yuangao/Documents/WCTC/Mobile/Assignment1b/bin/Debug/net9.0/Assignment1b
+/Users/yuangao/Documents/WCTC/Mobile/Assignment1b/bin/Debug/net9.0/Assignment1b.deps.json
+/Users/yuangao/Documents/WCTC/Mobile/Assignment1b/bin/Debug/net9.0/Assignment1b.runtimeconfig.json
+/Users/yuangao/Documents/WCTC/Mobile/Assignment1b/bin/Debug/net9.0/Assignment1b.dll
+/Users/yuangao/Documents/WCTC/Mobile/Assignment1b/bin/Debug/net9.0/Assignment1b.pdb
+/Users/yuangao/Documents/WCTC/Mobile/Assignment1b/obj/Debug/net9.0/Assignment1b.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuangao/Documents/WCTC/Mobile/Assignment1b/obj/Debug/net9.0/Assignment1b.AssemblyInfoInputs.cache
+/Users/yuangao/Documents/WCTC/Mobile/Assignment1b/obj/Debug/net9.0/Assignment1b.AssemblyInfo.cs
+/Users/yuangao/Documents/WCTC/Mobile/Assignment1b/obj/Debug/net9.0/Assignment1b.csproj.CoreCompileInputs.cache
+/Users/yuangao/Documents/WCTC/Mobile/Assignment1b/obj/Debug/net9.0/Assignment1b.dll
+/Users/yuangao/Documents/WCTC/Mobile/Assignment1b/obj/Debug/net9.0/refint/Assignment1b.dll
+/Users/yuangao/Documents/WCTC/Mobile/Assignment1b/obj/Debug/net9.0/Assignment1b.pdb
+/Users/yuangao/Documents/WCTC/Mobile/Assignment1b/obj/Debug/net9.0/Assignment1b.genruntimeconfig.cache
+/Users/yuangao/Documents/WCTC/Mobile/Assignment1b/obj/Debug/net9.0/ref/Assignment1b.dll
